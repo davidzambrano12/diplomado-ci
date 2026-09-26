@@ -62,4 +62,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/d4n-1/git-course:latest
+          tags: ghcr.io/davidzambrano12/git-course:latest
